@@ -1,6 +1,7 @@
-pandas
-numpy
-streamlit
+streamlit>=1.31.0
+pandas>=2.0.0
+numpy<2.0.0
 lifetimes
 plotly
 matplotlib
+altair<5
